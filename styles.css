@@ -10,13 +10,19 @@ ul {
     padding: 5px;
 }
 
-.button {
+button {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
     margin: 0px 3px;
-    border: 1px solid limegreen;
-    border-radius: 10px;
-    background-color: aliceblue;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    font-size: large;
+}
+
+button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px darkred;
+    transform: translate(4px);
 }
 
 body{
