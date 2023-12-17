@@ -1,6 +1,8 @@
 
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "siruca", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 60px;
     text-align: center;
 }   
